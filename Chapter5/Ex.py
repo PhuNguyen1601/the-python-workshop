@@ -1,5 +1,5 @@
  ## Ex 72 - creating a Pet class
- 
+
 class Pet:
     """
     A class to capture useful information regarding my pets, just in case
